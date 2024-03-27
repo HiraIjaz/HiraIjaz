@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software engineer.</h3>
 
 - 📫 How to reach me **hiraijaz956@gmail.com**
+- 👩🏻‍💼 Related account [@Hira-Ijaz](https://github.com/Hira-Ijaz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
