@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hira</h1>
-<h3 align="center">A passionate software Engineer.</h3>
 
 - 📫 How to reach me **hiraijaz956@gmail.com**
 - 👩🏻‍💼 Related account [@Hira-Ijaz](https://github.com/Hira-Ijaz)
